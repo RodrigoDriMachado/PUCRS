@@ -1,0 +1,23 @@
+0,Julio Figueira,28
+1,Luiza Nogueira,25
+2,Barbara Dias,35
+3,Filipe Bezerra,42
+4,Jorge Cavaleiro,19
+5,Mariana Gomes,27
+6,Alice Sthiff,21
+7,Roberto Zago,25
+8,Claudio Neuhaus,52
+9,Angela Kopff,28
+10,Luiz Alberto Torres,42
+11,Fulano,36
+12,Beltrano,37
+13,Ciclano,38
+14,Huguinho,17
+15,Zezinho,18
+16,Luizinho,19
+17,Lala,18
+18,Lele,19
+19,Lili,20
+20,Cicero,29
+21,Pratico,30
+22,Heitor,31
